@@ -3,7 +3,7 @@
 # Paper
 
 ## 2022
-- [RSC Advances] RamanNet: a lightweight convolutional neural network for bacterial identification based on Raman spectra  
+- [RSC Advances] **RamanNet: a lightweight convolutional neural network for bacterial identification based on Raman spectra**  
   _Bo Zhou, Yu-Kai Tong, Ru Zhang, and Anpei Ye_  
   [[paper]](https://pubs.rsc.org/en/content/articlepdf/2022/ra/d2ra03722j) 
   
