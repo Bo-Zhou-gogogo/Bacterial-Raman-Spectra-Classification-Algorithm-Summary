@@ -17,7 +17,7 @@
 ## 2020
 - [Analyst] Rapid and accurate identification of marine microbes with single-cell Raman spectroscopy
   _Yaoyao Liu, Jingjing Xu, Yi Tao, Teng Fang, Wenbin Du, and Anpei Ye_  
-  [[paper]] (https://pubs.rsc.org/en/content/articlelanding/2020/an/c9an02069a)
+  [[paper]](https://pubs.rsc.org/en/content/articlelanding/2020/an/c9an02069a)
 
 ## 2019
 
