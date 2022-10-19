@@ -12,7 +12,7 @@
   [[paper]](https://pubs.rsc.org/en/content/articlelanding/2020/an/c9an02069a) 
 
 - [ACS Chemical Biology] **High-Speed Diagnosis of Bacterial Pathogens at the Single Cell Level by Raman Microspectroscopy with Machine Learning Filters and Denoising Autoencoders**  
-  _Bo Zhou, Liying Sun, Teng Fang, Haixia Li, Ru Zhang, Anpei Ye_  
+  _Jiabao XuJiabao Xu, Xiaofei Yi, Guilan Jin, Di Peng, Gaoya Fan, Xiaogang Xu, Xin Chen, Huabing Yin, Jonathan M. Cooper, and Wei E. Huang_  
   [[paper]](https://pubs.acs.org/doi/10.1021/acschembio.1c00834) 
 
 
