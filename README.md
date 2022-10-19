@@ -5,13 +5,15 @@
 ## 2022
 - [RSC Advances] **RamanNet: a lightweight convolutional neural network for bacterial identification based on Raman spectra**  
   _Bo Zhou, Yu-Kai Tong, Ru Zhang, and Anpei Ye_  
-  [[paper]](https://pubs.rsc.org/en/content/articlepdf/2022/ra/d2ra03722j) 
+  [[paper]](https://pubs.rsc.org/en/content/articlepdf/2022/ra/d2ra03722j) [[code]](https://github.com/Bo-Zhou-gogogo/RamanNet)
   
 - [Journal of Biophotonics] **Rapid and accurate identification of pathogenic bacteria at single-cell level using laser tweezers Raman spectroscopy and deep learning**  
   _Bo Zhou, Liying Sun, Teng Fang, Haixia Li, Ru Zhang, Anpei Ye_  
   [[paper]](https://pubs.rsc.org/en/content/articlelanding/2020/an/c9an02069a) 
 
-
+- [ACS Chemical Biology] **High-Speed Diagnosis of Bacterial Pathogens at the Single Cell Level by Raman Microspectroscopy with Machine Learning Filters and Denoising Autoencoders**  
+  _Bo Zhou, Liying Sun, Teng Fang, Haixia Li, Ru Zhang, Anpei Ye_  
+  [[paper]](https://pubs.acs.org/doi/10.1021/acschembio.1c00834) 
 
 
 ## 2020
