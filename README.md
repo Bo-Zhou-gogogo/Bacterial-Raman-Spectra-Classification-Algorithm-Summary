@@ -19,10 +19,7 @@
   _Lin Deng, Yuzhong Zhong, Maoning Wang, Xiujuan Zheng and Jianwei Zhang_  
   [[paper]](https://pubmed.ncbi.nlm.nih.gov/34543211/) [[code]](https://github.com/DenglinGo/bacteria-SANet) 
   
-  - [IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS] **Biochemical fingerprint of colorectal cancer cell lines using label-free live single-cell Raman spectroscopy**  
-  _Lin Deng, Yuzhong Zhong, Maoning Wang, Xiujuan Zheng and Jianwei Zhang_  
-  [[paper]](https://pubmed.ncbi.nlm.nih.gov/34543211/) [[code]](https://github.com/DenglinGo/bacteria-SANet) 
-  
+ 
 ## 2021
 - [IEEE CCWC 2021] **Rapid Detection of Bacteria Using Raman Spectroscopy and Deep Learning **  
   _Kaitlyn Kukula, Denzel Farmer, Jesse Duran, Nishatul Majid, Christie Chatterley, Jeff Jessing, and Yiyan Li_  
