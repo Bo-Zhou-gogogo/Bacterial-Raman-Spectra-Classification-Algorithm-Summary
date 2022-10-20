@@ -18,7 +18,12 @@
 - [IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS] **Scale-adaptive Deep Model for Bacterial Raman Spectra Identification**  
   _Lin Deng, Yuzhong Zhong, Maoning Wang, Xiujuan Zheng and Jianwei Zhang_  
   [[paper]](https://pubmed.ncbi.nlm.nih.gov/34543211/) [[code]](https://github.com/DenglinGo/bacteria-SANet) 
-
+  
+## 2021
+- [RSC Advances] **Rapid Detection of Bacteria Using Raman Spectroscopy and Deep Learning **  
+  _Kaitlyn Kukula, Denzel Farmer, Jesse Duran, Nishatul Majid, Christie Chatterley, Jeff Jessing, and Yiyan Li_  
+  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9375955)
+  
 ## 2020
 - [Analyst] **Rapid and accurate identification of marine microbes with single-cell Raman spectroscopy**  
   _Yaoyao Liu, Jingjing Xu, Yi Tao, Teng Fang, Wenbin Du, and Anpei Ye_  
