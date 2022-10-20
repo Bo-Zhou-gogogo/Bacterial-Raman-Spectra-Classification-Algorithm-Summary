@@ -21,7 +21,7 @@
   
  
 ## 2021
-- [IEEE CCWC 2021] **Rapid Detection of Bacteria Using Raman Spectroscopy and Deep Learning **  
+- [IEEE CCWC 2021] **Rapid Detection of Bacteria Using Raman Spectroscopy and Deep Learning**  
   _Kaitlyn Kukula, Denzel Farmer, Jesse Duran, Nishatul Majid, Christie Chatterley, Jeff Jessing, and Yiyan Li_  
   [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9375955)
   
